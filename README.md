@@ -2,7 +2,7 @@
 Collection of high-level functions for control of an Eyelink 1000+ in typical human data acquisition scenarios.  
 Requires the Eyelink C API included in SR-Research's developer pack.
 
-## Install
+## Installo
 
 ### Matlab functions
 
